@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "express": "^4.16.2",
-    "mongodb": "^2.2.33"
+    "express-session": "^1.15.6",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.2.13",
+    "nodemailer": "^4.6.8"
   }
 }
+
